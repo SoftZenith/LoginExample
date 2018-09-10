@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043901241454",
+    "firebase_url": "https://loginexample-b341a.firebaseio.com",
+    "project_id": "loginexample-b341a",
+    "storage_bucket": "loginexample-b341a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043901241454:android:8d5e2a4fa900b9b4",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.loginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043901241454-cof7dfro9021pjtm86a2vtsb6fi8f807.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.loginexample",
+            "certificate_hash": "9ec198de0f8590031c194e6d37901fb72661b93b"
+          }
+        },
+        {
+          "client_id": "1043901241454-jo27nb03gt0l32r3srt46q1sltdghmf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8Kh964sUeBzbnDYD31TPUi6F8CX135s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043901241454-jo27nb03gt0l32r3srt46q1sltdghmf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
